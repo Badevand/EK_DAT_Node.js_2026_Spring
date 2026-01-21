@@ -16,11 +16,13 @@ link:00._Course_Material/00._Meta_Course_Material/about_the_course.md[About the 
 | Title | Date | Description | Learning Goals | Resources and Activities
 
 | 01. Introduction
-| Jan. 29
-a|
+| Jan. 29th
 
 a|
 
+a|
+
+a|
 
 
 
