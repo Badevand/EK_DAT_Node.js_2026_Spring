@@ -1,6 +1,6 @@
 # About this Course: **Full Stack Node.js**
 
-Reflect on the course's title. Besides Node.js it is:
+Reflect on the course title. Besides Node.js it is:
 
 - UX is important. Always think before you code. We have a code first approach in class because we are constrained by time. This is not ideal.
 
@@ -40,6 +40,8 @@ Solo or in groups. This is a large full-stack project that is different from the
 
 It is a requirement that your code follows clean code practices. Consider setting up a [linter](/00._Course_Material/00._Meta_Course_Material/linters_overview.md) early in the course so that you can get accustomed to working with them.
 
+---
+
 ## Additional Notes
 
 ### Communication
@@ -48,7 +50,15 @@ It is a requirement that your code follows clean code practices. Consider settin
 
 Besides deeply personal matters all communication should be in the Teams channel. This create transparency and gives everyone the ability to see the discussion and my answers. 
 
-### Co-pilot Usage
+### AI Usage
+
+Quote from the [course description](https://katalog.kea.dk/course/3050455/2025-2026):
+
+> Regler om hjælpemidler til eksamen
+
+> Det er ikke tilladt at bruge AI til udarbejdelse af kode.
+
+This is a course dedicated to writing code yourselves and by following all lectures and doing the course work you will gain sufficient skills to not rely on LLMs. 
 
 Co-pilot is an excellent tool and I recommend that you use it in your future endeavours but for this course I highly recommend that you refrain from using it. Arguments:
 
@@ -56,7 +66,9 @@ Co-pilot is an excellent tool and I recommend that you use it in your future end
 
 - Rather than learning to choose, you should question and understand. 
 
-- You should know how to write the syntax.
+- You should learn how to write the syntax.
+
+- By being able to write the code, you can question it and understand it deeper.
 
 - During the exam you will be live coding and co-pilot is not an option. 
 
