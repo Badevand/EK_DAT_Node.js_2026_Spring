@@ -38,6 +38,9 @@ a|
 2. Ordering. 
 3. Naming (noun, plural) that maps to collections in your system.
 a|
+link:00._Course_Material/01._Assignments/01._Introduction/Introduction_Exercises.md[Introduction Exercises]
+
+link:00._Course_Material/01._Assignments/01._Introduction/REST_API_Design.md[REST API Design]
 
 | 
 | Feb. 5th
