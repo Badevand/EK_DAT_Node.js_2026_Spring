@@ -4,13 +4,13 @@
 
 const firstName = "Anders";
 const lastName = "Latif";
-//console.log("My first name is " + firstName + " and my last name is " + lastName + ".");
+// console.log("My first name is " + firstName + " and my last name is " + lastName + ".");
 
 // const selfIntroduction = "My first name is " + firstName + " and my last name is " + lastName;
 
 // backticks, String template literal, String interpolation
 const intro = `My first name is ${firstName} and my last name is ${lastName}.`;
-//console.log(intro);
+// console.log(intro);
 
 // --------------------------------------
 // Exercise 2 - Numbers and Strings
@@ -23,7 +23,7 @@ const increment = 1;
 // You cannot touch the first or the second line
 
 const currentYear = parseInt(year) + increment;
-//console.log(currentYear);
+// console.log(currentYear);
 
 // --------------------------------------
 // Exercise 3 - Add numbers from string to float
@@ -34,8 +34,8 @@ const numberTwo = "2.30";
 // add those two numbers and show the result
 // you cannot touch line 1 neither line 2
 
-//const result = parseFloat(numberOne) + parseFloat(numberTwo);
-//console.log(result);
+// const result = parseFloat(numberOne) + parseFloat(numberTwo);
+// console.log(result);
 
 // --------------------------------------
 // Exercise 4 - Add the numbers and the total with 2 decimals
