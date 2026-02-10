@@ -1,0 +1,5 @@
+
+
+GET /movies - Get all movies
+GET /movies/{id} - Get specific movie
+
